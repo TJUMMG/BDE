@@ -34,11 +34,11 @@ With the development of digital signal visualization technology, the demands for
 The design and verification of the bit depth enhancement algorithm cannot be separated from the high-order deep content database. At present, the commonly used high-order deep image and video data sets at home and abroad include Sintel data set, MIT-Adobe 5K data set, TESTIMAGES data set, FuntHDR data set, SJTU HDR, Tears of Steel data set, and SVT data set.
 |**Year**|**Dataset**|**Resolution**|**High Bit**|**Low Bit**|**Frame rate**|**Download Link**|**Description**|
 | :-: | :-: | :-: | :-: |:-: | :-: | :-: | :- |
-|2012|**Sintel**|1K,2K,4K|16|8|24|[Link](http://sintel.is.tue.mpg.de/downloads)|Computer-synthesized animated film with fine and smooth content texture, including various animals and plants, buildings, natural scenes and extreme light and dark conditions|
+|2012|**Sintel**|1K,2K,4K|16|8|24|[Link](http://sintel.is.tue.mpg.de/downloads)|Computer-synthesized animated film with fine and smooth content texture, including various animals and plants, buildings, natural scenes and extreme light and dark conditions.|
 |2011|**MIT-Adobe5K**|-|16|-|-|[Link](https://data.csail.mit.edu/graphics/fivek/)|The natural image sets taken by different photographers with different brands of cameras cover a variety of natural scenes such as people, animals and plants, buildings, etc., including a variety of different lighting conditions and resolutions. The HDR image with professional color adjustment is saved in the original format of the camera.|
 |2014|**TESTIMAGES**|100×100至2400×2400|16|8|-|[Link](https://sourceforge.net/projects/testimages/files/)|Used for analysis and quality evaluation of display equipment or image processing technology, including 40 actual natural images, and 8 bit images are generated from 16 bit images through brightness normalization.|
 |2010|**Funt HDR**|2142×2142|16|-|-|[Link](https://www2.cs.sfu.ca/~colour/data/funt_hdr/#DESCRIPTION)|The 105 scenes taken with the NikonD700 digital still life camera contain 9 different exposure values for each scene. Including raw data format and 16bit PNG format, HDR image is generated through MATLAB image processing toolbox.|
-|2016|**SHTU HDR**|4K|16|-|60|[Link](https://medialab.sjtu.edu.cn/post/16-01-01-sjtu-hdr-video-sequences/)|16 ultra-high definition HDR video sets captured by Sony F65 and F55 cameras|
+|2016|**SHTU HDR**|4K|16|-|60|[Link](https://medialab.sjtu.edu.cn/post/16-01-01-sjtu-hdr-video-sequences/)|16 ultra-high definition HDR video sets captured by Sony F65 and F55 cameras.|
 |2013|**Tears of Steel**|2K,4K|16|8|24|[Link](https://mango.blender.org/download/)|A movie sequence mixed with natural scenes and computer synthesis.|
 |2014|**SVT**|4K|16|-|50|[Link](https://tc11.cvc.uab.es/datasets/SVT_1)|4K test clip released by Video Quality Expert Group (VQEG).|
 
@@ -46,10 +46,10 @@ In addition to the high bit depth database mentioned above, the traditional 8bit
 
 |**Year**|**Dataset**|**Number**|**Download Link**|**Description**|
 | :-: | :-: | :-: | :-: | :- |
-|1999|**Kodak**|24|[Link](https://r0k.us/graphics/kodak/)|Classic lossless true color image database, released by Eastman Kodak|
-|2017|**DPED**|16K|[Link](https://people.ee.ethz.ch/~ihnatova/)|It is composed of three smart phones and a digital SLR camera synchronously taking pictures in the field. Each picture taken by the smart camera has corresponding different and complex degraded pictures|
-|2019|**ADE20K**|25M|[Link](https://groups.csail.mit.edu/vision/datasets/ADE20K/)|Real complex scene images (such as roads, trees, etc.) collected from multiple early data sets were initially used for scene perception and semantic understanding. It can also be used for enhancement tasks facing real scenes due to various degradation such as shooting and reading noise, network transmission compression loss, etc|
-|2018|**OST300**|10K|[Link](http://mmlab.ie.cuhk.edu.hk/projects/SFTGAN/)|The real outdoor scene data set collected by keyword retrieval contains rich texture details, as well as various compression losses and shooting and reading noise, which is used to verify the image enhancement model for semantic texture|
+|1999|**Kodak**|24|[Link](https://r0k.us/graphics/kodak/)|Classic lossless true color image database, released by Eastman Kodak.|
+|2017|**DPED**|16K|[Link](https://people.ee.ethz.ch/~ihnatova/)|It is composed of three smart phones and a digital SLR camera synchronously taking pictures in the field. Each picture taken by the smart camera has corresponding different and complex degraded pictures.|
+|2019|**ADE20K**|25M|[Link](https://groups.csail.mit.edu/vision/datasets/ADE20K/)|Real complex scene images (such as roads, trees, etc.) collected from multiple early data sets were initially used for scene perception and semantic understanding. It can also be used for enhancement tasks facing real scenes due to various degradation such as shooting and reading noise, network transmission compression loss, etc.|
+|2018|**OST300**|10K|[Link](http://mmlab.ie.cuhk.edu.hk/projects/SFTGAN/)|The real outdoor scene data set collected by keyword retrieval contains rich texture details, as well as various compression losses and shooting and reading noise, which is used to verify the image enhancement model for semantic texture.|
 
 
 ## :computer:Papers and Codes
