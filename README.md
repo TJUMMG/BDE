@@ -3,7 +3,7 @@
 This repository is mainly used to track the dynamics related to bit depth enhancement, including mainstream data sets, algorithms for bit enhancement in image or video fields, and open source code. Promote the development of Ultra HD images or videos such as HDR by investigating bit depth enhancement algorithms. This repository will be continuously updated！
 
 > :pencil2:**Contributors:**
-> [Jing Liu](https://github.com/TJUMMG), [Xin Li], [Jiaxiang Wang](https://github.com/DumbFox123), [Zhiwei Fan](https://github.com/FanDady).
+> [Jing Liu](https://github.com/TJUMMG), [Xin Li](https://github.com/xingezi), [Jiaxiang Wang](https://github.com/DumbFox123), [Zhiwei Fan](https://github.com/FanDady).
 
 ## :bookmark:Contents
 - **[Bit Depth Enhancement <a name="headin"></a>](#bit-deep-enhancement-)**	
