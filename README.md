@@ -57,31 +57,31 @@ In addition to the high bit depth database mentioned above, the traditional 8bit
 
 - ### :camera:Image Domain
 
-   - [IFTC 2017]:boom: **Bit-Depth Enhancement via Convolutional Neural Network.** &nbsp; *Jing Liu* , BE-CNN.\
+   - [IFTC 2017] :boom: **Bit-Depth Enhancement via Convolutional Neural Network.** &nbsp; *Jing Liu* , BE-CNN.\
    [[Website](https://link.springer.com/chapter/10.1007/978-981-10-8108-8_24)] [[Code](https://github.com/TJUMMG/BE-CNN)]
-   - [Arxiv 2017]:boom: **Image companding and inverse halftoning using deep convolutional neural networks** &nbsp; *Xianxu Hou*.\
+   - [Arxiv 2017] :boom: **Image companding and inverse halftoning using deep convolutional neural networks** &nbsp; *Xianxu Hou*.\
    [[Website](https://arxiv.org/abs/1707.00116)]
-   - [ACCV 2018]:boom: **BitNet: Learning-Based Bit-Depth Expansion.** &nbsp; *Junyoung Byun* , BitNet.\
+   - [ACCV 2018] :boom: **BitNet: Learning-Based Bit-Depth Expansion.** &nbsp; *Junyoung Byun* , BitNet.\
    [[Website](https://link.springer.com/chapter/10.1007/978-3-030-20890-5_5)] [[Code](https://github.com/kamkyu94/BitNet)] 
-   - [ACCV 2018]:boom: **Gradient-Guided DCNN for Inverse Halftoning and Image Expanding.** &nbsp; *Yi Xiao* , GG-DCNN.\
+   - [ACCV 2018] :boom: **Gradient-Guided DCNN for Inverse Halftoning and Image Expanding.** &nbsp; *Yi Xiao* , GG-DCNN.\
    [[Website](https://link.springer.com/chapter/10.1007/978-3-030-20870-7_13)]
-   - [TIP 2019]:boom: **BE-CALF: Bit-Depth Enhancement by Concatenating All Level Features of DNN.** &nbsp; *Jing Liu* , BE-CALF.\
+   - [TIP 2019] :boom: **BE-CALF: Bit-Depth Enhancement by Concatenating All Level Features of DNN.** &nbsp; *Jing Liu* , BE-CALF.\
    [[Website](https://ieeexplore.ieee.org/document/8713480)] [[Code](https://github.com/TJUMMG/BE-CALF)]
-   - [APSIPA ASC 2019]:boom: **CNN-based bit-depth enhancement by the suppression of false contour and color distortion** &nbsp; *Changmeng Peng* , BE-AUTO.\
+   - [APSIPA ASC 2019] :boom: **CNN-based bit-depth enhancement by the suppression of false contour and color distortion** &nbsp; *Changmeng Peng* , BE-AUTO.\
    [[Website](https://ieeexplore.ieee.org/document/9023201)] [[Code](https://github.com/pengcm/BE-AUTO-ext)]
-   - [Neucom 2019]:boom: **Photo-realistic image bit-depth enhancement via residual transposed convolutional neural network.** &nbsp; *Yuting Su* , RT-CNN.\
+   - [Neucom 2019] :boom: **Photo-realistic image bit-depth enhancement via residual transposed convolutional neural network.** &nbsp; *Yuting Su* , RT-CNN.\
    [[Website](https://www.sciencedirect.com/science/article/pii/S0925231219305272)] 
-   - [TIP 2019]:boom: **Deep reconstruction of least significant bits for bit-depth expansion.** &nbsp; *Yang Zhao* , BDEN.\
+   - [TIP 2019] :boom: **Deep reconstruction of least significant bits for bit-depth expansion.** &nbsp; *Yang Zhao* , BDEN.\
    [[Website](https://ieeexplore.ieee.org/document/8603810)] 
-   - [TCSVT 2020]:boom: **Lighter but efficient bit-depth expansion network.** &nbsp; *Yang Zhao* , LBDE.\
+   - [TCSVT 2020] :boom: **Lighter but efficient bit-depth expansion network.** &nbsp; *Yang Zhao* , LBDE.\
    [[Website](https://ieeexplore.ieee.org/document/9044324)] 
-   - [Arxiv 2020]:boom: **Deep attentive generative adversarial network for photo-realistic image de-quantization.** &nbsp; *Yang Zhang* , DAGAN.\
+   - [Arxiv 2020] :boom: **Deep attentive generative adversarial network for photo-realistic image de-quantization.** &nbsp; *Yang Zhang* , DAGAN.\
    [[Website](https://arxiv.org/ftp/arxiv/papers/2004/2004.03150.pdf)]
-   - [BMSB 2020]:boom: **TSGAN: A Two-Stream Generative Adversarial Network for Bit-Depth Expansion.** &nbsp; *Zhen Yang* , TSGAN.\
+   - [BMSB 2020] :boom: **TSGAN: A Two-Stream Generative Adversarial Network for Bit-Depth Expansion.** &nbsp; *Zhen Yang* , TSGAN.\
    [[Website](https://ieeexplore.ieee.org/document/9379721)] 
-   - [TCSVT 2021]:boom: **Residual-Guided Multiscale Fusion Network for Bit-Depth Enhancement.** &nbsp; *Jing Liu* , RMFNet.\
+   - [TCSVT 2021] :boom: **Residual-Guided Multiscale Fusion Network for Bit-Depth Enhancement.** &nbsp; *Jing Liu* , RMFNet.\
    [[Website](https://ieeexplore.ieee.org/document/9491068)] [[Code](https://github.com/TJUMMG/RMFNet)] 
-   - [Displays 2021]:boom: **Photo-realistic residual bit-depth enhancement by advanced conditional GAN.** &nbsp; *Jing Liu* , BE-ACGAN.\
+   - [Displays 2021] :boom: **Photo-realistic residual bit-depth enhancement by advanced conditional GAN.** &nbsp; *Jing Liu* , BE-ACGAN.\
    [[Website](https://www.sciencedirect.com/science/article/pii/S0141938221000512)] [[Code](https://github.com/TJUMMG/BE-ACGAN)] 
    - [TPAMI 2021] :boom: **A Little Bit More: Bitplane-Wise Bit-Depth Recovery.** &nbsp; *Abhijith Punnappurath* , ALBM.\
    [[Website](https://blog.alexalemi.com/diffusion.html)] [[Code](https://colab.research.google.com/github/google-research/vdm/blob/main/colab/SimpleDiffusionColab.ipynb)] 
@@ -99,13 +99,13 @@ In addition to the high bit depth database mentioned above, the traditional 8bit
 
 - ### :movie_camera:Video Domian
 
-   - [TMM 2019]:boom: **Spatiotemporal symmetric convolutional neural network for video bit-depth enhancement.** &nbsp; *Jing Liu* , SSCNN\
+   - [TMM 2019] :boom: **Spatiotemporal symmetric convolutional neural network for video bit-depth enhancement.** &nbsp; *Jing Liu* , SSCNN\
 [[Website](https://ieeexplore.ieee.org/document/8636159)] 
 
-   - [TMM 2021]:boom: **Tanet: Target attention network for video bit-depth enhancement.** &nbsp; *Jing Liu* , TANet.\
+   - [TMM 2021] :boom: **Tanet: Target attention network for video bit-depth enhancement.** &nbsp; *Jing Liu* , TANet.\
 [[Website](https://ieeexplore.ieee.org/abstract/document/9547837)] [[Code](https://colab.research.google.com/github/google-research/vdm/blob/main/colab/SimpleDiffusionColab.ipynb)] 
 
-   - [BMSB 2021]:boom: **3D-BitNet: Flow-agnostic and precise network for video bit-depth expansion.** &nbsp; *Geyingjie Wen* , 3D-BitNet.\
+   - [BMSB 2021] :boom: **3D-BitNet: Flow-agnostic and precise network for video bit-depth expansion.** &nbsp; *Geyingjie Wen* , 3D-BitNet.\
 [[Website](https://ieeexplore.ieee.org/document/9547086)]
 
    - [MMSP 2022] :boom: **Bit-depth enhancement detection for compressed video.** &nbsp; *Nickolay Safonov*, BEDCV.\
