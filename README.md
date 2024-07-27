@@ -2,8 +2,8 @@
 
 This repository is mainly used to track the dynamics related to bit depth enhancement, including mainstream data sets, algorithms for bit enhancement in image or video fields, and open source code. Promote the development of Ultra HD images or videos such as HDR by investigating bit depth enhancement algorithms. This repository will be continuously updated！
 
-> :pencil2:**Authors:**
-> [Jing Liu](https://github.com/TJUMMG), [Jiaxiang Wang](https://github.com/DumbFox123), [Zhiwei Fan](https://github.com/FanDady).
+> :pencil2:**Contributors:**
+> [Jing Liu](https://github.com/TJUMMG), [Xin Li], [Jiaxiang Wang](https://github.com/DumbFox123), [Zhiwei Fan](https://github.com/FanDady).
 
 ## :bookmark:Contents
 - **[Bit Depth Enhancement <a name="headin"></a>](#bit-deep-enhancement-)**	
@@ -49,8 +49,8 @@ In addition to the high bit depth database mentioned above, the traditional 8bit
 | :-: | :-: | :-: | :-: | :- |
 |1999|**Kodak**|24|[Link](https://r0k.us/graphics/kodak/)|Classic lossless true color image database, released by Eastman Kodak.|
 |2017|**DPED**|16K|[Link](https://people.ee.ethz.ch/~ihnatova/)|It is composed of three smart phones and a digital SLR camera synchronously taking pictures in the field. Each picture taken by the smart camera has corresponding different and complex degraded pictures.|
-|2019|**ADE20K**|25M|[Link](https://groups.csail.mit.edu/vision/datasets/ADE20K/)|Real complex scene images (such as roads, trees, etc.) collected from multiple early data sets were initially used for scene perception and semantic understanding. It can also be used for enhancement tasks facing real scenes due to various degradation such as shooting and reading noise, network transmission compression loss, etc.|
 |2018|**OST300**|10K|[Link](http://mmlab.ie.cuhk.edu.hk/projects/SFTGAN/)|The real outdoor scene data set collected by keyword retrieval contains rich texture details, as well as various compression losses and shooting and reading noise, which is used to verify the image enhancement model for semantic texture.|
+|2019|**ADE20K**|25M|[Link](https://groups.csail.mit.edu/vision/datasets/ADE20K/)|Real complex scene images (such as roads, trees, etc.) collected from multiple early data sets were initially used for scene perception and semantic understanding. It can also be used for enhancement tasks facing real scenes due to various degradation such as shooting and reading noise, network transmission compression loss, etc.|
 
 
 ## :computer:Papers and Codes
