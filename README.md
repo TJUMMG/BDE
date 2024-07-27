@@ -58,13 +58,17 @@ In addition to the high bit depth database mentioned above, the traditional 8bit
 - ### :camera:Image Domain
 
    - [IFTC 2017]:boom: **Bit-Depth Enhancement via Convolutional Neural Network.** &nbsp; *Jing Liu* , BE-CNN.\
-   [[Website](https://link.springer.com/chapter/10.1007/978-981-10-8108-8_24)] [[Code](https://github.com/TJUMMG/BE-CNN)] 
+   [[Website](https://link.springer.com/chapter/10.1007/978-981-10-8108-8_24)] [[Code](https://github.com/TJUMMG/BE-CNN)]
+   - [Arxiv 2017]:boom: **Image companding and inverse halftoning using deep convolutional neural networks** &nbsp; *Xianxu Hou*.\
+   [[Website](https://arxiv.org/abs/1707.00116)]
    - [ACCV 2018]:boom: **BitNet: Learning-Based Bit-Depth Expansion.** &nbsp; *Junyoung Byun* , BitNet.\
    [[Website](https://link.springer.com/chapter/10.1007/978-3-030-20890-5_5)] [[Code](https://github.com/kamkyu94/BitNet)] 
    - [ACCV 2018]:boom: **Gradient-Guided DCNN for Inverse Halftoning and Image Expanding.** &nbsp; *Yi Xiao* , GG-DCNN.\
    [[Website](https://link.springer.com/chapter/10.1007/978-3-030-20870-7_13)]
-   - [ACCV 2018]:boom: **BE-CALF: Bit-Depth Enhancement by Concatenating All Level Features of DNN.** &nbsp; *Jing Liu* , BE-CALF.\
-   [[Website](https://ieeexplore.ieee.org/document/8713480)] [[Code](https://github.com/TJUMMG/BE-CALF)] 
+   - [TIP 2019]:boom: **BE-CALF: Bit-Depth Enhancement by Concatenating All Level Features of DNN.** &nbsp; *Jing Liu* , BE-CALF.\
+   [[Website](https://ieeexplore.ieee.org/document/8713480)] [[Code](https://github.com/TJUMMG/BE-CALF)]
+   - [APSIPA ASC 2019]:boom: **CNN-based bit-depth enhancement by the suppression of false contour and color distortion** &nbsp; *Changmeng Peng* , BE-AUTO.\
+   [[Website](https://ieeexplore.ieee.org/document/9023201)] [[Code](https://github.com/pengcm/BE-AUTO-ext)]
    - [Neucom 2019]:boom: **Photo-realistic image bit-depth enhancement via residual transposed convolutional neural network.** &nbsp; *Yuting Su* , RT-CNN.\
    [[Website](https://www.sciencedirect.com/science/article/pii/S0925231219305272)] 
    - [TIP 2019]:boom: **Deep reconstruction of least significant bits for bit-depth expansion.** &nbsp; *Yang Zhao* , BDEN.\
@@ -72,7 +76,9 @@ In addition to the high bit depth database mentioned above, the traditional 8bit
    - [TCSVT 2020]:boom: **Lighter but efficient bit-depth expansion network.** &nbsp; *Yang Zhao* , LBDE.\
    [[Website](https://ieeexplore.ieee.org/document/9044324)] 
    - [Arxiv 2020]:boom: **Deep attentive generative adversarial network for photo-realistic image de-quantization.** &nbsp; *Yang Zhang* , DAGAN.\
-   [[Website](https://arxiv.org/ftp/arxiv/papers/2004/2004.03150.pdf)] 
+   [[Website](https://arxiv.org/ftp/arxiv/papers/2004/2004.03150.pdf)]
+   - [BMSB 2020]:boom: **TSGAN: A Two-Stream Generative Adversarial Network for Bit-Depth Expansion.** &nbsp; *Zhen Yang* , TSGAN.\
+   [[Website](https://ieeexplore.ieee.org/document/9379721)] 
    - [TCSVT 2021]:boom: **Residual-Guided Multiscale Fusion Network for Bit-Depth Enhancement.** &nbsp; *Jing Liu* , RMFNet.\
    [[Website](https://ieeexplore.ieee.org/document/9491068)] [[Code](https://github.com/TJUMMG/RMFNet)] 
    - [Displays 2021]:boom: **Photo-realistic residual bit-depth enhancement by advanced conditional GAN.** &nbsp; *Jing Liu* , BE-ACGAN.\
@@ -82,7 +88,13 @@ In addition to the high bit depth database mentioned above, the traditional 8bit
    - [SPL 2022] :boom: **Iterative Residual Feature Refinement Network for Bit-Depth Enhancement.** &nbsp; *Jing Liu* , IRFRN.\
    [[Website](https://ieeexplore.ieee.org/abstract/document/9787714)] [[Code](https://github.com/TJUMMG/IRFRN)]    
    - [Arxiv 2022] :boom: **Learning Weighting Map for Bit-Depth Expansion within a Rational Range.** &nbsp; *Yuqing Liu* , BRNet.\
-   [[Website](https://arxiv.org/abs/2204.12039)] [[Code](https://github.com/yuqing-liu-dut/bit-depth-expansion)] 
+   [[Website](https://arxiv.org/abs/2204.12039)] [[Code](https://github.com/yuqing-liu-dut/bit-depth-expansion)]
+   - [TCSVT 2022] :boom: **Fast Blind Decontouring Network.** &nbsp; *Yang Zhao*.\
+   [[Website](https://ieeexplore.ieee.org/document/9868061)]
+   - [TCSVT 2023] :boom: **MRFT: Multiscale Recurrent Fusion Transformer Based Prior Knowledge for Bit-Depth Enhancement.** &nbsp; *Xin Wen* , MRFT.\
+   [[Website](https://ieeexplore.ieee.org/document/10078331)]
+   - [CVPR 2023] :boom: **ABCD: Arbitrary Bitwise Coefficient for De-Quantization.** &nbsp; *Woo Kyoung Han* , ABCD.\
+   [[Website](https://openaccess.thecvf.com/content/CVPR2023/html/Han_ABCD_Arbitrary_Bitwise_Coefficient_for_De-Quantization_CVPR_2023_paper.html)] [[Code](https://github.com/WooKyoungHan/ABCD)]
 
 
 - ### :movie_camera:Video Domian
