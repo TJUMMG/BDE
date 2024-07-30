@@ -76,7 +76,21 @@ In addition to the high bit depth database mentioned above, the traditional 8bit
     - [TIP 2018] :boom: **IPAD: Intensity Potential for Adaptive De-Quantization.** &nbsp; *Jing Liu* , IPAD.\
    [[Website](https://ieeexplore.ieee.org/document/8283657)]
    - [TIP 2016] :boom: **Image Bit-Depth Enhancement via Maximum A Posteriori Estimation of AC Signal.** &nbsp; *Pengfei Wan* , ACDC.\
-   [[Website](https://ieeexplore.ieee.org/document/7452380)]
+   [[Website](https://ieeexplore.ieee.org/document/7452380)] 
+  <!-- |**Category**|**Methods**|**Main idea**|**Authors**|**Publication**|
+   | :-: | :-: | :-: | :-: | :- |
+   |**Classic pixel-independent**| ZP | It simply adds zeros to the least significant bits.                                                                              | - | - |
+   |                             |MIG| It multiplies the low-bit image by the ideal gain and linearly maps pixel values from lower bit-depth space to higher one.        | - | - |
+   |                             | BR| It reconstructs HBD images by repeating the most significant bits after LSBs of LBD pixel values.  |*R.A.Ulichney et al.*|SPIE Color Imaging III 1998|
+   |                             | MRC| It creates prediction error histograms and selects the value of minimum risk as the reconstructed high bit pixel value. |*G.Mittal et al.*|VCIPN 2012|
+   |**Filter-based methods**|Decontouring|Its main contribution is the proposal of an effective post-processing algorithm that eliminates false contour artifacts without introducing additional noise. |*Scott J. et al.*| SPIE HVEI IX 2004 |
+   |                             | Video Lab. et al | It presents an efficient methods for detecting and segmenting flat-region in the image, and a technique for bit-depth extension to effectively remove false contours. |*W.Ahn et al.*| ICME 2005 |
+   |                             | ABDE| It adds adaptively-determined non-negative offset to zero-padded images, and then performs low-pass filtering to the smooth region. |*Liu et al.*| ISCAS 2008|
+   |                             | BEF-BDE| It applies a bilateral false contour elimination filter (BEF) to the pixels in the false contour area and iteratively filters them based on the number of iterations determined by the adaptive iteration selection module. |*Peng et al.*|SPL 2021|
+   |**Interpolation based methods**| CRR | It performs linear interpolation by considering the distance between the pixel and its upper and lower boundaries to achieve a smooth pixel value transition. |*Cheng et al.*|ISCS 2009|
+   |                             | CA | It improves CRR via deliberately coping with the blurry details in local max-ima/minima regions based on virtual skeleton marking. |*Wan et al.*| ICME 2012 |
+   |                             | IPAD| It utilizes an intensity potential field to model the spatial correlation among neighboring pixels, based on which nonlinear mapping and context-adaptive dequantization procedures are utilized to recover the original HBD images. |*Liu et al.*| TIP 2018 |
+   |**Frequency based method**| ACDC | It incorporates graph signal processing into BDE, estimating the AC and DC components separately. By decomposing the graph signal into frequency components, this algorithm provides a better representation of the graph signal's structure, avoiding excessive smoothing and reducing computational expense. |*Wan et al.*| TIP 2016|-->
 
    - [IFTC 2017] :boom: **Bit-Depth Enhancement via Convolutional Neural Network.** &nbsp; *Jing Liu* , BE-CNN.\
    [[Website](https://link.springer.com/chapter/10.1007/978-981-10-8108-8_24)] [[Code](https://github.com/TJUMMG/BE-CNN)]
