@@ -57,6 +57,27 @@ In addition to the high bit depth database mentioned above, the traditional 8bit
 
 - ### :camera:Image Domain
 
+   - [[SPIE Color Imaging III 1998] :boom: **Pixel bit-depth increase by bit replication.** &nbsp; *Robert A. Ulichney* , BR.\
+   [[Website](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/3300/0000/Pixel-bit-depth-increase-by-bit-replication/10.1117/12.298285.short#_=_)]
+   - [VCIPN 2012] :boom: **Bit-depth expansion using Minimum Risk Based Classification.** &nbsp; *Gaurav Mittal* , MRC.\
+   [[Website](https://ieeexplore.ieee.org/document/6410837)]
+   - [SPIE HVEI IX 2004] :boom: **Decontouring: prevention and removal of false contour artifacts** &nbsp; *Scott J. Daly* , Decontouring.\
+   [[Website](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5292/1/Decontouring-prevention-and-removal-of-false-contour-artifacts/10.1117/12.526937.short#_=_)]
+   - [ICME 2005] :boom: **Flat-region detection and false contour removal in the digital tv display.** &nbsp; *Wonseok Ahnl*.\
+   [[Website](https://ieeexplore.ieee.org/document/1521677)]
+   - [ISCAS 2008] :boom: **Bit-depth expansion by adaptive filter.** &nbsp; *Chun Hung Liu* ， ABDE.\
+   [[Website](https://ieeexplore.ieee.org/document/4541463)]
+   - [SPL 2021] :boom: **Bilateral False Contour Elimination Filter-Based Image Bit-Depth Enhancement.** &nbsp; *Changmeng Peng* ， BEF-BDE.\
+   [[Website](https://ieeexplore.ieee.org/document/9496257)]
+   - [ISCS 2009] :boom: **Bit-depth expansion by contour region reconstruction.** &nbsp; *Cheuk-Hong Cheng* , CRR.\
+   [[Website](https://ieeexplore.ieee.org/document/5117913)]
+    - [ICME 2012] :boom: **From 2D Extrapolation to 1D Interpolation: Content Adaptive Image Bit-Depth Expansionn.** &nbsp; *Pengfei Wan* , CA.\
+   [[Website](https://ieeexplore.ieee.org/document/6298393)]
+    - [TIP 2018] :boom: **IPAD: Intensity Potential for Adaptive De-Quantization.** &nbsp; *Jing Liu* , IPAD.\
+   [[Website](https://ieeexplore.ieee.org/document/8283657)]
+   - [TIP 2016] :boom: **Image Bit-Depth Enhancement via Maximum A Posteriori Estimation of AC Signal.** &nbsp; *Pengfei Wan* , ACDC.\
+   [[Website](https://ieeexplore.ieee.org/document/7452380)]
+
    - [IFTC 2017] :boom: **Bit-Depth Enhancement via Convolutional Neural Network.** &nbsp; *Jing Liu* , BE-CNN.\
    [[Website](https://link.springer.com/chapter/10.1007/978-981-10-8108-8_24)] [[Code](https://github.com/TJUMMG/BE-CNN)]
    - [Arxiv 2017] :boom: **Image companding and inverse halftoning using deep convolutional neural networks** &nbsp; *Xianxu Hou*.\
